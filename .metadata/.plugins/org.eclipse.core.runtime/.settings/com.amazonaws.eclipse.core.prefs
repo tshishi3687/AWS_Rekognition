@@ -1,0 +1,9 @@
+223c80b6-a2bc-470f-8644-5957d0c54316\:credentialProfileName=default
+alwaysReloadWhenCredentialProfileFileModified=true
+cognitoIdentityId=us-east-1\:8591a163-92ed-4aa0-afee-63b61e8ffc49
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=223c80b6-a2bc-470f-8644-5957d0c54316
+currentAccount=223c80b6-a2bc-470f-8644-5957d0c54316
+currentDefaultAccount=223c80b6-a2bc-470f-8644-5957d0c54316
+ec2PreferencesImported=true
+eclipse.preferences.version=1

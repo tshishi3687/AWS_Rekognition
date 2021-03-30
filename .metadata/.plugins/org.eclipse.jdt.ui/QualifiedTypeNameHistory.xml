@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.amazonaws.services.rekognition.model.DetectFacesRequest"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.document.Attribute"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.ecs.model.Attribute"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpledb.model.Attribute"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.directory.model.Attribute"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.inspector.model.Attribute"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.rekognition.model.Attribute"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.rekognition.model.DetectFacesResult"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.rekognition.model.AgeRange"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.rekognition.model.CompareFacesRequest"/>
+</qualifiedTypeNameHistroy>
